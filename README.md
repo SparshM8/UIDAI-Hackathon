@@ -43,10 +43,10 @@ We conducted a comprehensive analysis of anonymized Aadhaar enrolment data to un
 - **Policy Optimization**: Data-driven decision-making for social welfare programs
 
 ## Team
-[Your Team Name]
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
+Silents
+- Sparsh Mishra
+- Vishal Kumar
+- Yogesh Prajapati
 
 ## License
 This project is submitted for the UIDAI Hackathon and follows competition guidelines.
